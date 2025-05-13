@@ -25,3 +25,7 @@ main{
 .card{
      overflow: hidden;
 }
+
+.requiredForm{
+    color: #FF0000;
+}
