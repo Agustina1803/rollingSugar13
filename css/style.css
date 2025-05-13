@@ -29,3 +29,19 @@ main{
 .requiredForm{
     color: #FF0000;
 }
+
+.img-error-404{
+    width: 100%;
+}
+
+@media ( 768px <= width <= 991px ){
+    .img-error-404{
+        width: 95%;
+    }
+}
+
+@media (width >= 992px){
+    .img-error-404{
+        width: 30%;
+    }
+    }
